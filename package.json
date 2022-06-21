@@ -1,0 +1,16 @@
+{
+  "name": "cptdtext2xpeech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SpeechSynthesis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./SpeechSynthesis.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "microsoft-cognitiveservices-speech-sdk": "^1.22.0"
+  }
+}
